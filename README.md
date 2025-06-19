@@ -5,19 +5,13 @@
 </picture>
 
 
-## About me
+## Hi, I'm Shoaib R. 👨🏻‍💻
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+I'm Shoaib R., a self-taught React Native developer who turns ideas into powerful, real-world apps that solve real problems. With expertise in React Native, Node.js, MongoDB, React.js, Next.js and MySQL, I don’t just write code — I engineer seamless digital experiences that are fast, functional, and visually striking. I’ve built and deployed multiple cross-platform apps, each designed to deliver maximum performance and user satisfaction. Based in Lahore, Pakistan, I'm always open to exciting collaborations and freelance opportunities. Let’s build something incredible — reach out at shoaibriaze@gmail.com.
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+## 📫 Find Me around the web 🌐
 
-<details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
-
-</details>
+- 🌐 [Visit my Portfolio Website](https://shabii-muhammadshoaibriazs-projects.vercel.app/)
+- 💼 [Sharing updates on LinkedIn](https://www.linkedin.com/in/shoaib-r-b71247209/)
+- 📧 Send us Mail: [shoaibriaze@gmail.com](mailto:shoaibriaze@gmail.com)
+- 🧑‍💻 [Find me on Fiverr](https://www.fiverr.com/sellers/mlt77330/edit)
